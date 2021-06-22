@@ -1,0 +1,30 @@
+.nun{
+  font-family: 'Nunito Sans', sans-serif;
+}
+.mon{
+  font-family: 'Montserrat', sans-serif;
+}
+#customnun{
+  color: #10C9C3
+}
+.b1{
+  background: url('img/aidan');
+}
+#customtext{
+  color: #787878
+}
+.button {
+  background-color: #10C9C3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+.customcenter{
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+}
